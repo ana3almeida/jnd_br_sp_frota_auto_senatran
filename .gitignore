@@ -1,0 +1,8 @@
+#Bloqueia todas as planilhas do Excel do projeto
+*.xls
+*.xlsx
+
+#Bloqueia arquivos temporários do R
+.Rhistory
+.RData
+.Rproj.user/
